@@ -10,7 +10,6 @@ body {
   --secondary-color: #c1abb2;
   font-family: "Poppins", "Courier New", Courier, monospace;
   background-color: var(--main-color);
-
   margin: 3px;
 }
 
